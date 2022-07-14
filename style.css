@@ -56,6 +56,29 @@ body {
     mirgin: left:10px;
     padding-left: 30px;
     padding-right: 30px;
-    box-shadow: 10px 10px 40px red;
+    box-shadow: 10px 10px 50px red;
     font-size: 20px;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+#full {
+
+    border-left: 7px solid blue;
+    border-radius: 10px;
+}
+
+#baby {
+
+    border-left: 7px solid greenyellow;
+    border-radius: 10px;
+}
+
+footer p {
+    text-align: center;
 }
